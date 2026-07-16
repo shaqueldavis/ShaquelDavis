@@ -1,4 +1,4 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Shaquel S Davis (aka Shaq)
 <a href="http://www.linkedin.com/in/shaqueldavis"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Calm results-driven professional. 7+ years of experience in technical operations, asset management, and systems troubleshooting, with a proven record of leading teams, managing complex technical projects, and delivering quality outcomes under tight budgets and deadlines. Holds GIAC and CompTIA certifications and brings hands-on cybersecurity experience with practical exposure to network defense, incident handling, and vulnerability management.
@@ -21,7 +21,6 @@ My initial goal is to acquire an entry level position as a SOC tier 1 analyst or
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -36,12 +35,13 @@ My initial goal is to acquire an entry level position as a SOC tier 1 analyst or
 <div>
     <img src="https://img.shields.io/badge/-Powershell-00A4EF?&style=for-the-badge&logo=powershell&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux_bash-4B275F?&style=for-the-badge&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Volatility_Framework-D35400?&style=for-the-badge&logo=Volatility&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hayabusa-F39C12?&style=for-the-badge&logo=Volatility&logoColor=white" />
+
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
@@ -49,10 +49,10 @@ My initial goal is to acquire an entry level position as a SOC tier 1 analyst or
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-GCIH-007ACC?&style=for-the-badge&logo=SANS&logoColor=white" />
+<img src="https://img.shields.io/badge/-GSEC-4D4D4D?&style=for-the-badge&logo=SANS&logoColor=white" />
+<img src="https://img.shields.io/badge/-GFACT-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-GIAC_Advisory_Board-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
