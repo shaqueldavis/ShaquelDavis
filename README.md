@@ -49,7 +49,7 @@ My initial goal is to acquire an entry level position as a SOC tier 1 analyst or
 "><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/00ba18dc-9275-4df7-818a-c1d7af8f10c2/linked_in_profile"><img src="https://img.shields.io/badge/-GCIH-007ACC?&style=for-the-badge&logo=SANS&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/c7c6615c-8fae-49dd-ab3d-60027bd39fb6/linked_in_profile"><img src="https://img.shields.io/badge/-GSEC-4D4D4D?&style=for-the-badge&logo=SANS&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/c7c6615c-8fae-49dd-ab3d-60027bd39fb6/linked_in_profile"><img src="https://img.shields.io/badge/-GFACT-006400?&style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/2d76436a-3a2d-4467-8dc5-409c13f60e17"><img src="https://img.shields.io/badge/-GFACT-006400?&style=for-the-badge&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/f3c1796d-a4a2-464e-8f23-05052bf87e41/linked_in_profile"><img src="https://img.shields.io/badge/-GIAC_Advisory_Board-000080?&style=for-the-badge&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/ea4d3699-ee26-4cdf-953a-13720ea3af2f/linked_in_profile"><img src="https://img.shields.io/badge/-Google_CPC-472280?&style=for-the-badge&logoColor=white" /></a>
     
