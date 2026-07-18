@@ -9,40 +9,37 @@ My initial goal is to acquire an entry level position as a SOC tier 1 analyst or
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network Traffic Monitoring | <a href="https://github.com/shaqueldavis/Network-Mapping-Home-Lab">Network Mapping</a>|
+| Linux Bash Scripting | <a href="https://github.com/shaqueldavis/Network-Mapping-Home-Lab">Network Mapping</a>|
+| Linux foundations and fundamentals | <a href="https://github.com/shaqueldavis/Linux-Fundamentals_Hack-The-Box">Linux Fundamentals</a>|
+| Windows foundations and fundamentals | <a href="https://github.com/shaqueldavis/Windows-Fundamentals">Windows-Fundamentals</a>|
 
 ## Tools
 
 ### Network
 <div>
     <a href="https://www.wireshark.org"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TCP_dump-F7IN49?&style=for-the-badge&logo=TCPdump&logoColor=white" />
+    <a href="https://www.snort.org"><img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" /></a>
+    <a href="https://zeek.org"><img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /></a>
+    <a href="https://www.tcpdump.org/"><img src="https://img.shields.io/badge/-TCP_dump-F7IN49?&style=for-the-badge&logo=TCPdump&logoColor=white" /></a>
 
 </div>
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Powershell-00A4EF?&style=for-the-badge&logo=powershell&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Linux_bash-4B275F?&style=for-the-badge&logo=Linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Volatility_Framework-D35400?&style=for-the-badge&logo=Volatility&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hayabusa-F39C12?&style=for-the-badge&logo=Volatility&logoColor=white" />
+    <a href="https://apps.microsoft.com/detail/9mz1snwt0n5d?hl=en-US&gl=US"><img src="https://img.shields.io/badge/-Powershell-00A4EF?&style=for-the-badge&logo=powershell&logoColor=white" /></a>
+    <a href="https://github.com/shaqueldavis/Linux-Fundamentals_Hack-The-Box"><img src="https://img.shields.io/badge/-Linux_bash-4B275F?&style=for-the-badge&logo=Linux&logoColor=white" /></a>
+    <a href="https://volatilityfoundation.org"><img src="https://img.shields.io/badge/-Volatility_Framework-D35400?&style=for-the-badge&logo=Volatility&logoColor=white" /></a>
+    <a href="https://suzukicycles.com/sportbike/2025/hayabusa"><img src="https://img.shields.io/badge/-Hayabusa-F39C12?&style=for-the-badge&logo=Volatility&logoColor=white" /></a>
 
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <a href="https://www.elastic.co/observability?utm_campaign=G-TXT-AMER-US-Observability-EN-Lead_Gen-CloudTrials-BR&utm_content=Brand-Observability&utm_source=google&utm_medium=cpc&device=c&utm_term=elastic%20observability&utm_id=701610000005lJVAAY&gad_source=1&gad_campaignid=22944792373&gbraid=0AAAAADrDgoLvvNi4CQMdgbm0nXrYrNdJh&gclid=CjwKCAjwyOzSBhBTEiwAmxvJ-vTTUcLPS0tDDX9Yi_jXSeKN0QyPEI1EDUZj3_pRYlrPL-xZ84AuiRoCqvoQAvD_BwE"><img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /></a>
 </div>
 
 ## Certifications
