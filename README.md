@@ -45,11 +45,14 @@ My initial goal is to acquire an entry level position as a SOC tier 1 analyst or
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-GCIH-007ACC?&style=for-the-badge&logo=SANS&logoColor=white" />
-<img src="https://img.shields.io/badge/-GSEC-4D4D4D?&style=for-the-badge&logo=SANS&logoColor=white" />
-<img src="https://img.shields.io/badge/-GFACT-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-GIAC_Advisory_Board-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://www.credly.com/badges/eaa50303-140f-4d83-8bc3-3d6f01b41449/linked_in_profile
+"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/00ba18dc-9275-4df7-818a-c1d7af8f10c2/linked_in_profile"><img src="https://img.shields.io/badge/-GCIH-007ACC?&style=for-the-badge&logo=SANS&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/c7c6615c-8fae-49dd-ab3d-60027bd39fb6/linked_in_profile"><img src="https://img.shields.io/badge/-GSEC-4D4D4D?&style=for-the-badge&logo=SANS&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/c7c6615c-8fae-49dd-ab3d-60027bd39fb6/linked_in_profile"><img src="https://img.shields.io/badge/-GFACT-006400?&style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/f3c1796d-a4a2-464e-8f23-05052bf87e41/linked_in_profile"><img src="https://img.shields.io/badge/-GIAC_Advisory_Board-000080?&style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/ea4d3699-ee26-4cdf-953a-13720ea3af2f/linked_in_profile"><img src="https://img.shields.io/badge/-Google_CPC-472280?&style=for-the-badge&logoColor=white" /></a>
+    
 </div>
 
 ## Projects
