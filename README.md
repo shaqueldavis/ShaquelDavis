@@ -15,7 +15,7 @@ My initial goal is to acquire an entry level position as a SOC tier 1 analyst or
 | Network Traffic Monitoring | <a href="https://github.com/shaqueldavis/Network-Mapping-Home-Lab">Network Mapping</a>|
 | Linux Bash Scripting | <a href="https://github.com/shaqueldavis/Network-Mapping-Home-Lab">Network Mapping</a>|
 | Linux foundations and fundamentals | <a href="https://github.com/shaqueldavis/Linux-Fundamentals_Hack-The-Box">Linux Fundamentals</a>|
-| Windows foundations and fundamentals | <a href="https://github.com/shaqueldavis/Windows-Fundamentals">Windows-Fundamentals</a>|
+| Windows foundations and fundamentals | <a href="https://github.com/shaqueldavis/Windows-Fundamentals_Hack-The-Box">Windows-Fundamentals</a>|
 
 ## Tools
 
@@ -56,5 +56,7 @@ My initial goal is to acquire an entry level position as a SOC tier 1 analyst or
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/shaqueldavis/Network-Mapping-Home-Lab">Network Mapping</a>
+- <a href="https://github.com/shaqueldavis/Windows-Fundamentals_Hack-The-Box">Windows Fundamentals</a>
+- <a href="https://github.com/shaqueldavis/Linux-Fundamentals_Hack-The-Box">Linux-Fundamentals</a>
+
