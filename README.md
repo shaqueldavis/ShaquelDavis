@@ -31,7 +31,7 @@ My initial goal is to acquire an entry level position as a SOC tier 1 analyst or
 ### Endpoint
 <div>
     <a href="https://apps.microsoft.com/detail/9mz1snwt0n5d?hl=en-US&gl=US"><img src="https://img.shields.io/badge/-Powershell-00A4EF?&style=for-the-badge&logo=powershell&logoColor=white" /></a>
-    <a href="https://github.com/shaqueldavis/Linux-Fundamentals_Hack-The-Box"><img src="https://img.shields.io/badge/-Linux_bash-4B275F?&style=for-the-badge&logo=Linux&logoColor=white" /></a>
+    <a href="https://github.com/shaqueldavis/Network-Mapping-Home-Lab"><img src="https://img.shields.io/badge/-Linux_bash-4B275F?&style=for-the-badge&logo=Linux&logoColor=white" /></a>
     <a href="https://volatilityfoundation.org"><img src="https://img.shields.io/badge/-Volatility_Framework-D35400?&style=for-the-badge&logo=Volatility&logoColor=white" /></a>
     <a href="https://github.com/Yamato-Security/hayabusa"><img src="https://img.shields.io/badge/-Hayabusa-F39C12?&style=for-the-badge&logo=Volatility&logoColor=white" /></a>
 
